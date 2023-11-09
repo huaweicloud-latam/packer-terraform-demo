@@ -5,5 +5,5 @@ Where you'll see how to use Packer to create an image that
 will be later used by Terraform in order to create resources on HWC.
 
 ## Structure 
-The example code will be found on the folders named "tf" and packer "packer templateS"
-An detailed example guide can be found on the docs folder. 
+The example code will be found on the folders named **"tf"** and packer **"packer templates"**
+An detailed **example guide** can be found on the docs folder. 
